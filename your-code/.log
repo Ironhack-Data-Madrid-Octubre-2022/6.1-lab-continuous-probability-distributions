@@ -820,3 +820,27 @@
 2022-11-21 15:26:25,399 [8252] DEBUG    matplotlib.font_manager:1341: [JupyterRequire] findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSBI.TTF', name='Bookman Old Style', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
 2022-11-21 15:26:25,399 [8252] DEBUG    matplotlib.font_manager:1367: [JupyterRequire] findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\IronHack\\anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
 2022-11-21 15:27:30,249 [8252] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 8 threads.
+2022-11-21 22:07:05,920 [10456] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-21 22:07:05,921 [10456] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-21 22:07:05,921 [10456] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-21 22:07:05,922 [10456] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-21 22:07:05,923 [10456] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-21 22:07:05,923 [10456] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-21 22:07:06,712 [10456] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-21 22:07:06,712 [10456] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-21 22:07:06,712 [10456] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-21 22:07:06,715 [10456] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-21 22:07:06,716 [10456] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-21 22:07:06,716 [10456] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-21 22:07:55,236 [8912] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-21 22:07:55,236 [8912] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-21 22:07:55,236 [8912] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-21 22:07:55,238 [8912] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-21 22:07:55,238 [8912] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-21 22:07:55,238 [8912] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-21 22:16:34,410 [10892] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-21 22:16:34,410 [10892] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-21 22:16:34,410 [10892] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-21 22:16:34,414 [10892] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-21 22:16:34,415 [10892] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-21 22:16:34,415 [10892] DEBUG    root:97: [JupyterRequire] Registering comm targets.
